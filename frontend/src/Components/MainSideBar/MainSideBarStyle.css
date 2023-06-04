@@ -1,0 +1,19 @@
+.mainNav{
+    border-right: none;
+    border-left: none;
+}
+
+.mainNav:hover{
+    color: #e8bc10;
+        background-color: #f3dea033;
+}
+.catTitle{
+    margin-left: 20px;
+    
+}
+
+.all{
+    border:2px solid #fed700;
+    /* display: none; */
+    
+}
